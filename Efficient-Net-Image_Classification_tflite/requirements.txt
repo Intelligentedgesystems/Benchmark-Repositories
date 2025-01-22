@@ -1,0 +1,12 @@
+absl_py==2.1.0
+numpy==2.2.2
+onnx==1.17.0
+onnx_tf==1.10.0
+Pillow==11.1.0
+pytest==8.3.4
+setuptools==59.6.0
+six==1.17.0
+sotabencheval==0.0.38
+tensorflow==2.18.0
+torch==2.5.1
+torchvision==0.20.1
