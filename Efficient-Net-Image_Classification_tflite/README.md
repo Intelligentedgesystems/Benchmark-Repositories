@@ -7,7 +7,6 @@ This repository contains an implementation of EfficientNet for image classificat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Details](#model-details)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -38,8 +37,6 @@ python test.py
 ## Model Details
 The EfficientNet model used in this repository is pre-trained on the ImageNet dataset. The TensorFlow Lite model is optimized for performance on edge devices.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
