@@ -6,6 +6,8 @@ YOLOv5 - most advanced vision AI model for object detection. Natively implemente
 live streaming is the future work.
 
 ## Installation
+- git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
+- cd Benchmark-Repositories/yolo-v5-Object-Detection
 - pip3 install -r requirements.txt
 
 ## Pretrained Checkpoints

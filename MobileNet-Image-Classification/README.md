@@ -16,7 +16,7 @@ MobileNet is a lightweight deep neural network architecture designed for mobile 
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/MobileNet-Image-Classification.git
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
 cd MobileNet-Image-Classification
 pip install -r requirements.txt
 ```

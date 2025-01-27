@@ -12,7 +12,7 @@ This repository contains the implementation of object detection using the YOLOv5
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ONNX-YoloV5su-Object-Detection.git
+    git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
     cd ONNX-YoloV5su-Object-Detection
     ```
 

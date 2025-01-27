@@ -13,6 +13,8 @@ You can download the pre-trained model file "posenet_mobilenet_v1_100_257x257_mu
 To install the required dependencies, run the following command:
 
 ```bash
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
+cd Benchmark-Repositories/Pose-Estimation
 pip install -r requirements.txt
 ```
 

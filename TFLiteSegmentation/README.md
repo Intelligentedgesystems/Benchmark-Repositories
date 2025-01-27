@@ -16,8 +16,8 @@ Follow the instructions below to set up and run the project.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/TFLiteSegmentation.git
-    cd TFLiteSegmentation
+    git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
+    cd Benchmark-Repositories/TFLiteSegmentation
     ```
 
 2. Install the required Python packages:

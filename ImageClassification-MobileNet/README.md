@@ -17,7 +17,7 @@ To get started, clone the repository and install the required dependencies:
 Download the model file "mobilenet_v1_1.0_224_quant.tflite" for the above repo here: https://drive.google.com/drive/folders/1z2Kr2W7oyvf-x0Km12uWvLTEZWNKm136?usp=sharing
 
 ```bash
-git clone https://github.com/yourusername/ImageClassification-MobileNet.git
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
 cd ImageClassification-MobileNet
 pip install -r requirements.txt
 ```

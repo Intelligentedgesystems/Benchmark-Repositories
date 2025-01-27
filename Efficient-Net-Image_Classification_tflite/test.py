@@ -4,12 +4,12 @@ from PIL import Image
 import torch
 import tensorflow as tf
 
-from efficientnet_pytorch import EfficientNet
+from efficientnet_pytorch.model import EfficientNet
 
 model_name = 'efficientnet-b0'
 image_size = EfficientNet.get_image_size(model_name)
 
-Image.open('img.jpg')
+Image.open('Efficient-Net-Image_Classification_tflite/img.jpg')
 
 # Preprocess image with TensorFlow
 tf.config.experimental_run_functions_eagerly(True)

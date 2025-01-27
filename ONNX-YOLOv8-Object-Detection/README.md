@@ -11,7 +11,7 @@
 
 # Installation
 ```shell
-git clone https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection.git
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
 cd ONNX-YOLOv8-Object-Detection
 pip install -r requirements.txt
 ```

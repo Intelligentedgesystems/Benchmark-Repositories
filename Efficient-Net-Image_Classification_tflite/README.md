@@ -16,7 +16,7 @@ EfficientNet is a family of convolutional neural networks that achieve state-of-
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Efficient-Net-Image_Classification_tflite.git
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
 cd Efficient-Net-Image_Classification_tflite
 pip install -r requirements.txt
 ```

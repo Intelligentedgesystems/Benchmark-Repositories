@@ -16,8 +16,8 @@ This project utilizes the ResNet architecture for object detection tasks. The mo
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Resnet-Object-Detection.git
-cd Resnet-Object-Detection
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
+cd Benchmark-Repositories/Resnet-Object-Detection
 pip install -r requirements.txt
 ```
 

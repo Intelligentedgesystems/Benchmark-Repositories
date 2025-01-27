@@ -15,8 +15,8 @@ ResNet (Residual Network) is a popular deep learning architecture used for image
 ## Installation
 To get started, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Resnet-Image-Classification.git
-cd Resnet-Image-Classification
+git clone https://github.com/Intelligentedgesystems/Benchmark-Repositories.git
+cd Benchmark-Repositories/Resnet-Image-Classification
 ```
 
 Install the required dependencies:
