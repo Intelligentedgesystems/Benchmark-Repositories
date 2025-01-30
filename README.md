@@ -32,6 +32,5 @@ To get started with any of these repositories, follow these general steps:
 
 Download the model files for the above repos here: https://drive.google.com/drive/folders/1z2Kr2W7oyvf-x0Km12uWvLTEZWNKm136?usp=sharing
 
-### License
-
-Each repository is licensed under its respective license. Please refer to the `LICENSE` file in each repository for more information.
+## Acknowledgements
+This project took inspiration from various sources. We would like to acknowledge the contributions of the open-source community and the authors of the original implementations.
