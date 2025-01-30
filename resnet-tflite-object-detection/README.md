@@ -31,5 +31,5 @@ python test.py
 ## Model Files
 Download the model file "detr_resnet50_dc5.tflite" for the above repository here: [Google Drive Link](https://drive.google.com/drive/folders/1z2Kr2W7oyvf-x0Km12uWvLTEZWNKm136?usp=sharing)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Acknowledgements
+This project took inspiration from various sources. We would like to acknowledge the contributions of the open-source community and the authors of the original implementations.
