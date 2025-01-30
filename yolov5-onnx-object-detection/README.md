@@ -35,6 +35,5 @@ This repository contains the implementation of object detection using the YOLOv5
 Download the model file "yolov5su.onnx" for the above repos here: https://drive.google.com/drive/folders/1z2Kr2W7oyvf-x0Km12uWvLTEZWNKm136?usp=sharing
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Acknowledgements
+This project took inspiration from various sources. We would like to acknowledge the contributions of the open-source community and the authors of the original implementations.
