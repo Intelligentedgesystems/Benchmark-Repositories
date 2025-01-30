@@ -26,6 +26,5 @@ To run the pose estimation, use the following command:
 python pose_estimation_script.py
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Acknowledgements
+This project took inspiration from various sources. We would like to acknowledge the contributions of the open-source community and the authors of the original implementations.
