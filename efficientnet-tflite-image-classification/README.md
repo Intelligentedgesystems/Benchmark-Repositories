@@ -7,7 +7,6 @@ This repository contains an implementation of EfficientNet for image classificat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Details](#model-details)
-- [License](#license)
 
 ## Introduction
 EfficientNet is a family of convolutional neural networks that achieve state-of-the-art accuracy while being computationally efficient. This repository provides a TensorFlow Lite implementation of EfficientNet for image classification, making it suitable for deployment on edge devices.
@@ -37,6 +36,5 @@ python test.py
 ## Model Details
 The EfficientNet model used in this repository is pre-trained on the ImageNet dataset. The TensorFlow Lite model is optimized for performance on edge devices.
 
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Acknowledgements
+This project took inspiration from various sources. We would like to acknowledge the contributions of the open-source community and the authors of the original implementations.
