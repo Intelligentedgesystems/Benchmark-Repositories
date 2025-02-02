@@ -32,19 +32,10 @@ Download the model file "lite-model_deeplabv3_1_metadata_2.tflite" for the above
 
 ### Usage
 
-1. Place the downloaded model files in the `models` directory.
-2. Run the segmentation script:
+1. Run the segmentation script:
     ```sh
-    python segment.py --image_path path/to/your/image.jpg
+    python DeepLabv3.py
     ```
-
-### Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 

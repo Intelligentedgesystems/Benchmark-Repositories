@@ -6,7 +6,6 @@ This repository contains the implementation of object detection using the YOLOv5
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Download](#model-download)
-- [License](#license)
 
 ## Installation
 
