@@ -7,7 +7,6 @@ This repository contains the implementation of image classification using the Re
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Files](#model-files)
-- [License](#license)
 
 ## Introduction
 ResNet (Residual Network) is a popular deep learning architecture used for image classification tasks. This repository provides a ResNet-based model for classifying images into different categories.
