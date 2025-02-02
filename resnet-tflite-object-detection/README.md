@@ -7,7 +7,6 @@ This repository contains the implementation of object detection using the ResNet
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Files](#model-files)
-- [License](#license)
 
 ## Introduction
 This project utilizes the ResNet architecture for object detection tasks. The model is trained to identify various objects in images with high accuracy.
