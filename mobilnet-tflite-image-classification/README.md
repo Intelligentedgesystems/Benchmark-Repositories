@@ -6,7 +6,6 @@ This repository contains code and resources for image classification using the M
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 MobileNet is a lightweight, efficient deep neural network architecture designed for mobile and embedded vision applications. This project demonstrates how to use MobileNet for image classification tasks.
@@ -29,5 +28,5 @@ To run the image classification script, use the following command:
 python clweb.py
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## Acknowledgements
+This project took inspiration from various sources. We would like to acknowledge the contributions of the open-source community and the authors of the original implementations.
